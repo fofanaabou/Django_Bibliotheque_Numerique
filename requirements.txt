@@ -3,7 +3,7 @@ Django==1.10.5
 django-appconf==1.0.2
 django-geoip==0.5.2.1
 gunicorn==19.6.0
-psycopg2==2.6.2
+psycopg2
 python-geoip==1.2
 python-geoip-geolite2==2015.303
 requests==2.13.0
